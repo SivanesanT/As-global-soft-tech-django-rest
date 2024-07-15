@@ -1,0 +1,1 @@
+# As-global-soft-tech-django-rest
